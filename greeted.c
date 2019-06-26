@@ -4,9 +4,13 @@
 int main()
 {
 	
-	printf("Hello");
-	printf("Bye");
+
+	
 	printf("안녕하세요");
+	printf("Hello\n");
+	printf("Bye\n");
+	printf("Hi\n");
+
 
 	return 0;
 }
