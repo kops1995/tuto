@@ -12,7 +12,7 @@ int main()
 	printf("안녕하세요\n");
 	printf("안녕히가세요\n");
 	printf("이곳은 건우글로벌입니다.\n");
-	printf("무슨일로 오셨나요?\
+	printf("무슨일로 오셨나요?\n);
 
 
 	return 0;
