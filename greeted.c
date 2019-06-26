@@ -32,7 +32,7 @@ int main()
 	printf("무슨일로 오셨나요?\n");
 	break;
 	default: 
-	return 0;
+	printf("없는 번호를 입력하셨습니다.\n");
 	break;
 	}
 
