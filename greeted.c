@@ -5,9 +5,12 @@ int main()
 {
 	
 	int a;
+	int i;
 
+	for(i=0; i<10; i++){
 	scanf("%d", &a);
 	printf("입력하신 번호는 %d번입니다.\n", a);
+
 	
 	switch(a){
 	case 1:
@@ -35,7 +38,8 @@ int main()
 	printf("없는 번호를 입력하셨습니다.\n");
 	break;
 	}
-
+	}	
+	
 	return 0;
 }
 
