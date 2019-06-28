@@ -30,9 +30,6 @@ int main()
 	break;
 	case 6:
 	printf("이곳은 건우글로벌입니다.\n");
-<<<<<<< HEAD
-	printf("무슨일로 오셨나요?\n);
-=======
 	break;
 	case 7:
 	printf("무슨일로 오셨나요?\n");
@@ -42,8 +39,6 @@ int main()
 	break;
 	}
 	}	
-	
->>>>>>> f6edcec4c72e2288c98d8dc119e5b6130188dced
 	return 0;
 }
 
