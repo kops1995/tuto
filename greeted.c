@@ -7,7 +7,7 @@ int main()
 	int a;
 	int i;
 
-	for(i=0; i<7; i++){
+	for(i=0; i<10; i++){
 	scanf("%d", &a);
 	printf("입력하신 번호는 %d번입니다.\n", a);
 
